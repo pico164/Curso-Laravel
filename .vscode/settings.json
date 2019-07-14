@@ -1,3 +1,4 @@
 {
-    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace, Fire Code"
+    "editor.fontFamily": "Fire Code, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true
 }
